@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/data/data/com.termux/files/usr/bin/env bash
 set -eo pipefail
 
 REPO_DIR="$(git rev-parse --show-toplevel)"

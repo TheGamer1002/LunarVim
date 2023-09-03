@@ -1,4 +1,4 @@
-SHELL := /usr/bin/env bash
+SHELL := /data/data/com.termux/files/usr/bin/env bash
 
 install:
 	@echo starting LunarVim installer
